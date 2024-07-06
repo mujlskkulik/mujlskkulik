@@ -1,0 +1,1 @@
+or reading clipboard:', error);  }}module.exports = {  refresh,  forceWait,  getRandomNumber,
