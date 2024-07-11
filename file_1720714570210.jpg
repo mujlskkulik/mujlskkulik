@@ -1,0 +1,1 @@
+, 241, 5, 7)  await commonLib.moveClickThenWait("确认Commit Changes", 793, 645, 5, 7)  console.log(
