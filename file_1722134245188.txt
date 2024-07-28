@@ -1,0 +1,1 @@
+npm install clipboardy//https://github.com/sindresorhus/clipboardyimport clipboardy from 'clipboa
