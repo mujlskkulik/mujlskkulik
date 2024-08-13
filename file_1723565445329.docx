@@ -1,0 +1,1 @@
+nLib = require('./common');var addr = "https://discord.com/shop#"//浏览shop的内容，随意点一下async functio
